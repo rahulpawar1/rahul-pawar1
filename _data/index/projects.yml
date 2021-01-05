@@ -1,0 +1,25 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Online Flight Reservation
+  gh_user: krishna-sharma19
+  repo: sparcs
+  img: /static/assets/img/landing/flight reservation.jpeg
+  desc: User search flight and book the flight.
+
+- name: Online Water Supply System
+  i18n: cpython
+  gh_user: krishna-sharma19
+  repo: Computer-Vision-Assignments
+  img: /static/assets/img/landing/water supply.jpg
+  desc: Ordering the Water Bottales and jars.
+
+- name: Todo List
+  i18n: cpython
+  img: /static/assets/img/landing/todo list.png
+  desc: It is related to daily routing.
+
+- name: Newspaper Advertisement System
+  i18n: cpython
+  img: /static/assets/img/landing/newspaper adv system.jpg
+  desc: manages and take a news.
